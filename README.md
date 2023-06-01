@@ -25,3 +25,7 @@ Below is the prompt
         YOUR {dialect} RESPONSE:
 
 ```
+
+To run you need
+- Python 3
+- Open AI key

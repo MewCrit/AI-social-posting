@@ -26,10 +26,10 @@ def lang_socials():
         - If scary the post will sound scary    
         Dialects can be any languages such as English, Filipino etc..
 
-        Below is the email, tone, and dialect:
+        Below is the post, tone, and dialect:
         TONE: {tone}
         DIALECT: {dialect}
-        EMAIL: {sentence}
+        POST: {sentence}
         
         YOUR {dialect} RESPONSE:
     """
